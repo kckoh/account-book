@@ -19,18 +19,25 @@
 * has the ability to scale to a mobile app
 * must be mobile friedly
 
+* search
+* list
+* add
+
 # Some Design Considerations
 * Backend: Spring for API and Login for Spring Security
 * Frontend :server side rendering react/ or client side rendering - mustache, thymleaf
-* Database: MySQL/ Spring Data Jpa/ Graphql
+* Database: MySQL/ Spring Data Jpa
 * Cloud: AWS/EC2
 * Testing: JUnit/ Jest or jasmine
 
 # Architecture Diagram/ Sequence- Diagram/ flow chart
 
 # Api Document
+* Javadocs or swagger
 # Security/ risk chart
-* 간단하게 sql injection/ cors/ cookie/ 
+* 간단하게 sql injection/ 
 # UX/Design
 # Testing strategy
+* C-D-I
 # Performance
+*
